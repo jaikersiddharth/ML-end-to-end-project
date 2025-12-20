@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: ML_End_to_End_Project
+Version: 0.1.0
+Author: Jaiker Siddharth
+Requires-Dist: setuptools
+Requires-Dist: pandas
+Requires-Dist: numpy
+Dynamic: author
+Dynamic: requires-dist
