@@ -1,0 +1,11 @@
+[2025-12-23 15:45:01,581] INFO - Data Ingestion method starts
+[2025-12-23 15:45:01,586] INFO - Dataset read as pandas dataframe
+[2025-12-23 15:45:01,592] INFO - Raw data is saved
+[2025-12-23 15:45:01,608] INFO - Ingestion of the data is completed
+[2025-12-23 15:45:01,612] INFO - Read train and test data completed
+[2025-12-23 15:45:01,612] INFO - Obtaining preprocessing object
+[2025-12-23 15:45:01,612] INFO - Numerical and categorical pipeline created
+[2025-12-23 15:45:01,616] INFO - Applying preprocessing object on training and testing dataframes
+[2025-12-23 15:45:01,635] INFO - Saved preprocessing object
+[2025-12-23 15:45:01,639] INFO - Spliting training and test input
+[2025-12-23 15:45:04,249] INFO - Best model found on both training and testing dataset is Linear Regression with r2 score of 0.8804332983749565

@@ -1,0 +1,9 @@
+[2025-12-23 15:30:27,380] INFO - Data Ingestion method starts
+[2025-12-23 15:30:27,388] INFO - Dataset read as pandas dataframe
+[2025-12-23 15:30:27,433] INFO - Raw data is saved
+[2025-12-23 15:30:27,483] INFO - Ingestion of the data is completed
+[2025-12-23 15:30:27,487] INFO - Read train and test data completed
+[2025-12-23 15:30:27,488] INFO - Obtaining preprocessing object
+[2025-12-23 15:30:27,488] INFO - Numerical and categorical pipeline created
+[2025-12-23 15:30:27,492] INFO - Applying preprocessing object on training and testing dataframes
+[2025-12-23 15:30:27,510] INFO - Saved preprocessing object
