@@ -1,4 +1,7 @@
 setuptools
 pandas
 numpy
--e .
+scikit-learn
+matplotlib
+dill
+#  -e .

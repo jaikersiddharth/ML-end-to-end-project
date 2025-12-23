@@ -5,5 +5,7 @@ Author: Jaiker Siddharth
 Requires-Dist: setuptools
 Requires-Dist: pandas
 Requires-Dist: numpy
+Requires-Dist: scikit-learn
+Requires-Dist: matplotlib
 Dynamic: author
 Dynamic: requires-dist
